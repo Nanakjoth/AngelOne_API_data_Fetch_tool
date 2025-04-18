@@ -1,0 +1,6 @@
+logzero==1.7.0
+smartapi-python
+websocket==0.2.1
+pyotp==2.9.0
+pandas
+seaborn==0.13.2

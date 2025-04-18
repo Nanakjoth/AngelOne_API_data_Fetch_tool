@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-venv
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.venv
+
+# Configurations
+config.py
+
+# IDE
+.vscode/
+.idea/
+
+# Local data
+*.csv
+*.json
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
