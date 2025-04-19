@@ -1,6 +1,6 @@
-# Angel One API Trading Application
+# TradeFlow-Angel
 
-This application provides functionality to fetch and analyze stock data from Angel One's trading platform using their SmartAPI.
+A professional trading analytics platform that leverages Angel One's SmartAPI to fetch, analyze, and manage stock market data with precision. This robust application provides comprehensive functionality for both historical and real-time stock data analysis.
 
 ## Setup
 
